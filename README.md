@@ -48,7 +48,7 @@
   <ol>
     <li>Clone the repository to your local machine:</li>
   </ol>
-  <code>git clone https://github.com/yourusername/student-result-management-system.git</code>
+  <code>git clone https://github.com/parshwakonire/student-result-management-system.git</code>
   <ol start="2">
     <li>Import the <code>database.sql</code> file into your MySQL database to create the necessary tables and populate initial data.</li>
     <li>Configure the database connection settings in <code>config.php</code> located in the <code>includes</code> directory.</li>
