@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Student Result Management System - README</title>
+  
 </head>
 <body>
   <h1>Student Result Management System</h1>
@@ -50,7 +50,7 @@
   </ol>
   <code>git clone https://github.com/parshwakonire/student-result-management-system.git</code>
   <ol start="2">
-    <li>Import the <code>database.sql</code> file into your MySQL database to create the necessary tables and populate initial data.</li>
+    <li>Import the <code>srms.sql</code> file into your MySQL database to create the necessary tables and populate initial data.</li>
     <li>Configure the database connection settings in <code>config.php</code> located in the <code>includes</code> directory.</li>
     <li>Start your local server environment (XAMPP, WAMP, MAMP, LAMP).</li>
     <li>Open the project in your web browser by navigating to <code>http://localhost/student-result-management-system</code>.</li>
