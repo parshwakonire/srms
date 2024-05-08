@@ -18,6 +18,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
   </ul>
 
   <h2 id="features">Features</h2>
@@ -84,5 +85,27 @@
 
   <h2 id="license">License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+  <!-- Add Images -->
+  <h2 id="screenshots">Screenshots</h2>
+  <p>Index Page</p>
+  <img src="images/Screenshot/hero .png" alt="Main Page">
+<br>  
+<p>Notice Board</p>
+  <img src="images/Screenshot/notice.png" alt="Admin Dashboard">
+<br>  
+<p>Result Section</p> 
+
+  <img src="images/Screenshot/result.png" alt="Student Result Page">
+  <br>  
+<p>Enqurie Box</p>
+  <img src="images/Screenshot/end.png" alt="Student Result Page">
+  <br>  
+<p>Admin Dashboard</p>
+  <img src="images/Screenshot/admin.png" alt="Student Result Page">
+
+  <br>  
+<p>Faculty Dashboard</p>
+  <img src="images/Screenshot/faculty.png" alt="Student Result Page">
 </body>
 </html>
