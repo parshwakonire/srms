@@ -64,6 +64,14 @@
     <li>Access the application through the web browser.</li>
     <li>Log in as an admin to manage classes, subjects, students, results, notices, and passwords.</li>
     <li>Log in as a student to search for results and view notices.</li>
+    <li>Admin Username <code>admin</code> and password is <code>Test@123</code></li>
+    <li>We have 3 Falculty's Username is 
+    <code>hod.science</code>
+    <code>hod.commerce</code>
+    <code>hod.arts</code>
+    The password has <code>Pass@123</code>
+    
+    </li>
   </ul>
 
   <h2 id="contributing">Contributing</h2>
