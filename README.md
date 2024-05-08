@@ -88,24 +88,24 @@
 
   <!-- Add Images -->
   <h2 id="screenshots">Screenshots</h2>
-  <p>Index Page</p>
+  <h4>Index Page</h4>
   <img src="images/Screenshot/hero .png" alt="Main Page">
 <br>  
-<p>Notice Board</p>
+<h4>Notice Board</h4>
   <img src="images/Screenshot/notice.png" alt="Admin Dashboard">
 <br>  
-<p>Result Section</p> 
+<h4>Result Section</h4> 
 
   <img src="images/Screenshot/result.png" alt="Student Result Page">
   <br>  
-<p>Enqurie Box</p>
+<h4>Enqurie Box</h4>
   <img src="images/Screenshot/end.png" alt="Student Result Page">
   <br>  
-<p>Admin Dashboard</p>
+<h4>Admin Dashboard</h4>
   <img src="images/Screenshot/admin.png" alt="Student Result Page">
 
   <br>  
-<p>Faculty Dashboard</p>
+<h4>Faculty Dashboard</h4>
   <img src="images/Screenshot/faculty.png" alt="Student Result Page">
 </body>
 </html>
