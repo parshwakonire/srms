@@ -69,9 +69,7 @@
     <code>hod.science</code>
     <code>hod.commerce</code>
     <code>hod.arts</code>
-    The password has <code>Pass@123</code>
-    
-    </li>
+    The password has <code>Pass@123</code></li>
   </ul>
 
   <h2 id="contributing">Contributing</h2>
