@@ -28,12 +28,15 @@
     <li>Register new students and edit their information.</li>
     <li>Declare or edit results for students.</li>
     <li>Add or delete notices.</li>
+    <li>Check a feedback.</li>
   </ul>
 
   <h3>Student Module</h3>
   <ul>
     <li>Search for results using a valid roll ID.</li>
     <li>View notices.</li>
+    <li>Send a feedback.</li>
+    
   </ul>
 
   <h2 id="requirements">Requirements</h2>
